@@ -1,4 +1,4 @@
-[
+
   { "id": "flavor1", "text": "10/7/24 - 10/20/24 Coffee Toffee", "start": { "month": 10, "day": 7, "year": 2024 }, "end": { "month": 10, "day": 20, "year": 2024 }, "imageSrc": "images/coffee-toffee.jpg" },
   { "id": "flavor2", "text": "10/21/24 - 11/3/24 Orange Dreamsicle", "start": { "month": 10, "day": 21, "year": 2024 }, "end": { "month": 11, "day": 3, "year": 2024 }, "imageSrc": "images/orange-dreamsicle.jpg" },
   { "id": "flavor3", "text": "12/22/25 - 12/28/25 Strawberry Cheesecake", "start": { "month": 12, "day": 22, "year": 2025 }, "end": { "month": 12, "day": 28, "year": 2025 }, "imageSrc": "images/strawberry-cheesecake.jpg" },
@@ -57,5 +57,4 @@
   { "id": "flavor56", "text": "12/8/25 - 12/14/25 Coffee Toffee", "start": { "month": 12, "day": 8, "year": 2025 }, "end": { "month": 12, "day": 14, "year": 2025 }, "imageSrc": "images/coffee-toffee.jpg" },
   { "id": "flavor57", "text": "12/15/25 - 12/21/25 Mint Oreo®", "start": { "month": 12, "day": 15, "year": 2025 }, "end": { "month": 12, "day": 21, "year": 2025 }, "imageSrc": "images/mint-oreo.jpg" },
   { "id": "flavor58", "text": "12/22/25 - 12/28/25 Strawberry Cheesecake", "start": { "month": 12, "day": 22, "year": 2025 }, "end": { "month": 12, "day": 28, "year": 2025 }, "imageSrc": "images/strawberry-cheesecake.jpg" }
-]
 
